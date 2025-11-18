@@ -1,0 +1,10 @@
+C:\Users\LewisGod\Desktop\Taller Tecnico\bin\Debug\Taller Tecnico.exe.config
+C:\Users\LewisGod\Desktop\Taller Tecnico\bin\Debug\Taller Tecnico.exe
+C:\Users\LewisGod\Desktop\Taller Tecnico\bin\Debug\Taller Tecnico.pdb
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller Tecnico.csproj.AssemblyReference.cache
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\TallerTecnico.FrmDashboard.resources
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller_Tecnico.Properties.Resources.resources
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller Tecnico.csproj.GenerateResource.cache
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller Tecnico.exe
+C:\Users\LewisGod\Desktop\Taller Tecnico\obj\Debug\Taller Tecnico.pdb
